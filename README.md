@@ -24,3 +24,6 @@ airflow backfill pyspark -s 2019-05-01 -e 2019-05-08
 airflow test airFlow_pset styling 2019-05-03
 ```
 More commands can be found on Airflow website: https://airflow.apache.org/tutorial.html
+
+## Video Presentation(Harvard gmail viewable only)
+https://drive.google.com/open?id=1bWxaXHDp62ux_hxQ7X6GnKFEhT_r4Sts
